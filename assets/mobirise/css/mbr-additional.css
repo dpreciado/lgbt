@@ -55,30 +55,37 @@
 #image2-v P {
   font-size: 14px;
 }
+#header3-y H3 {
+  text-align: center;
+}
 #header3-z H3 {
   text-align: center;
+}
+#header3-z P {
+  text-align: left;
 }
 #header3-10 H3 {
   text-align: center;
 }
-#dropdown-menu-2btn-13 .hide-buttons [data-button] {
-  display: none !important;
+#header3-10 P {
+  text-align: left;
 }
-#dropdown-menu-2btn-13 .nav .link,
-#dropdown-menu-2btn-13 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
+#header3-1t H3 {
+  text-align: center;
 }
-#dropdown-menu-2btn-13 .navbar,
-#dropdown-menu-2btn-13 .dropdown-menu {
-  background: #333333;
+#header3-1t P {
+  text-align: left;
 }
-#dropdown-menu-2btn-13 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-13 .dropdown-menu a:hover,
-#dropdown-menu-2btn-13 .dropdown-menu a:focus {
-  background: #292929;
+#ext_menu-1p .mbr-brand__name {
+  font-size: 16px;
 }
-#dropdown-menu-2btn-13 .navbar-toggler {
+#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__hamburger {
   color: #ffffff;
 }
 #content5-14 .mbr-header .mbr-header__text {
@@ -103,6 +110,42 @@
 #content5-15 .mbr-article {
   color: #fff;
 }
+#ext_menu-1p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #header3-1g H3 {
   text-align: center;
+}
+#ext_menu-1p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1p .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-1p .mbr-navbar__hamburger {
+  color: #ffffff;
 }

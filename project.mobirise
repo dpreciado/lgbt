@@ -9,12 +9,13 @@
       "additionalSetColors": [
         "#2f4d57",
         "#2fa8d9",
-        "#3c3c3c"
+        "#3c3c3c",
+        "#dfbb48"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 61,
+    "uniqCompNum": 66,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png"
   },
@@ -53,9 +54,9 @@
             "overlayColor": "#2fa8d9",
             "overlayOpacity": "0.3"
           },
-          "title": "LGBTQ COMMUNITY",
+          "title": "LGBT COMMUNITY",
           "text": "“Democrats applaud last year’s decision by the Supreme Court that recognized that LGBT people—like other Americans—have the right to marry the person they love. But there is still much work to be done. LGBT kids continue to be bullied at school, restaurants can refuse to serve transgender people, and same-sex couples are at risk of being evicted from their homes. That is unacceptable and must change.”\n<br>\n<br>-Democratic Party Platform",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/237923?lang=en\" data-toolbar=\"-mbrBtnMove\">Join the LGBT Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/237923?lang=en\" data-toolbar=\"-mbrBtnMove\">Donate</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/237923?lang=en\" data-toolbar=\"-mbrBtnMove\">Join the LGBT Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -105,7 +106,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Message from the Chair",
-          "text": "<p>What is the role of the caucus as a leader in arizona, what is our reponsibility to your community?</p>",
+          "text": "<p>What is the role of the caucus as a leader and voice for its community in arizona?</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -128,9 +129,9 @@
           },
           "_params": {
             "showTitle": true,
-            "showMeta": false,
+            "showMeta": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -164,10 +165,10 @@
               "loop": false
             }
           },
-          "title": "We Stand Together",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "title": "Fancy Title Here!",
+          "meta": "Subititle Here!&nbsp;",
+          "text": "<p>More Fancy Captions Here!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -188,28 +189,28 @@
                 "image": "@PROJECT_PATH@/assets/images/1176395-10151939637346671-2349637205558974472-n-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1176395-10151939637346671-2349637205558974472-n-960x720-767x576.jpg",
                 "alt": "",
-                "caption": "Highlights",
+                "caption": "Fancy Captions Here!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/17757641-10154287080041671-6908084521618609155-n-1-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/17757641-10154287080041671-6908084521618609155-n-1-960x720-767x576.jpg",
                 "alt": "",
-                "caption": "Highlights",
+                "caption": "Fancy Captions Here!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720-800x600.jpg",
                 "alt": "",
-                "caption": "Highlights",
+                "caption": "Fancy Captions Here!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480-550x404.jpg",
                 "alt": "",
-                "caption": "Highlights",
+                "caption": "Fancy Captions Here!",
                 "active": true
               }
             ]
@@ -229,7 +230,7 @@
         },
         {
           "_params": {
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
@@ -255,7 +256,7 @@
             "overlayOpacity": 0.5
           },
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "Our LGTB Community",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
@@ -405,7 +406,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT - Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"true\">ADP Resolutions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\">State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Party Building</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Community</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Membership</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT - Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"true\" target=\"_blank\">LGBT Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -439,7 +440,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBTQ Caucus</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-12"
         },
@@ -457,7 +458,7 @@
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/azlgbtdems/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/azlgbtdems/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
@@ -587,7 +588,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20901683-10211817605207873-6025567521369269668-o-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/capplanetskin-feat-970x545.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -615,13 +616,18 @@
           "_params": {
             "showMeta": true
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CHAIR OF CAUCUS",
-          "meta": "hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on.\n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;)\n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can:\n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:",
+          "title": "Ray Bradford, Chair",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: 602.618.9100 \n<br>Email: chair@azlgbtdems.org<br>",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-y"
+          "_anchor": "header3-y",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -631,9 +637,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "images/slide3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-640x607.jpg",
               "class": "mbr-figure__img",
-              "width": 1400
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -651,8 +660,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "1ST CHAIR",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "Lisa Malachowsky, Vice Chair",
+          "meta": "<br>Hello,<br><br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:<br><br>Sincerely,<br><br>Signer<br><br>Phone: 925.759.4360 \n<br>Email: vicechair@azlgbtdems.org<br>",
           "_tags": [
             "Theme"
           ],
@@ -661,6 +670,9 @@
           "_styles": {
             "H3": {
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -672,9 +684,12 @@
           "media": {
             "image": {
               "active": true,
-              "src": "images/slide3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-1-640x607.jpg",
               "class": "mbr-figure__img",
-              "width": 1400
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -692,8 +707,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "TREASURER",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "Jade Richardson, Secretary",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: 925.759.4360 \n<br>Email: vicechair@azlgbtdems.org",
           "_tags": [
             "Theme"
           ],
@@ -702,8 +717,147 @@
           "_styles": {
             "H3": {
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-3-640x607.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1s"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\r<div><span style=\"color: inherit; font-family: inherit;\">Ben Whaley, Treasurer</span><br></div>",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: 925.759.4360 \n<br>Email: vicechair@azlgbtdems.org",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-1t"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBT Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azlbgtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a"
         }
       ]
     },
@@ -714,57 +868,6 @@
         "order": 3
       },
       "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT - Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"true\">ADP Resolutions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\">State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Party Building</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Community</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Membership</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\">DONATE</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBTQ Caucus</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-13"
-        },
         {
           "_inherit": "msg-box3",
           "_styles": {
@@ -792,7 +895,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#27aae0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -839,7 +942,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#27aae0",
+            "bgColor": "#dfbb48",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -860,6 +963,57 @@
           "_anchor": "content5-15"
         },
         {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -867,17 +1021,35 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#3c3c3c",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 White Hat Technologies. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a><br><a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">P</a>aid for by the Arizona Democratic Party",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBT Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azlbgtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\">Democratic National Committee</a></li><li><br></li></ul>",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-16"
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a"
         }
       ]
     },
@@ -945,7 +1117,7 @@
             "showMeta": true
           },
           "title": "Chair Message",
-          "meta": "By John Smith posted July 30, 2015",
+          "meta": "What ever you want to motivate people to become members, I would make this both text and a short video. &nbsp;No more than&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -956,6 +1128,95 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBT Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azlbgtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a"
         }
       ]
     },
@@ -1000,9 +1261,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/new-logo-for-buildings-210x218.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1015,14 +1279,17 @@
             }
           },
           "title1": "One n Ten",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "\"sample org, youll update your own, quote from them about help from caucus membership, or anything else nice you can think of\"<br><br>- name of person",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/10320272-759220074111015-7387022397276093720-n-253x300.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1034,15 +1301,18 @@
               "size": 0
             }
           },
-          "title2": "ADP",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title2": "Equiality Arizona",
+          "caption2": "\"quote from them about help from caucus membership, or anything else nice you can think of\"\n<br>\n<br>- name of person",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/pride-logo-600x134.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -1054,8 +1324,8 @@
               "size": 0
             }
           },
-          "title3": "<p>XXX&nbsp;&nbsp;</p>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title3": "<p><br></p><br><p>Phoenix Pride</p>",
+          "caption3": "\"quote from them about help from caucus membership, or anything else nice you can think of\"\n<br>\n<br>- name of person",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -1129,109 +1399,59 @@
             "showBullets": true,
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
-                "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": false
               },
               {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": false
               },
               {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": false
               },
               {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": false
               },
               {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": false
               },
               {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": false
               },
               {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": false
               },
               {
                 "image": "images/slide7.jpg",
                 "thumb": "images/slide7-small.jpg",
                 "alt": "",
-                "caption": "Type caption here",
+                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
                 "active": true
               }
             ]
@@ -1242,6 +1462,95 @@
           ],
           "_name": "gallery2",
           "_anchor": "gallery2-1o"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBT Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azlbgtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a"
         }
       ]
     }
