@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-03-15_1235",
-    "currentPage": "index.html",
+    "name": "ADP LGBT Caucus",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,9 +15,12 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 69,
+    "uniqCompNum": 81,
     "versionPublish": "4.6.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -56,7 +59,7 @@
           },
           "title": "LGBT COMMUNITY",
           "text": "“Democrats applaud last year’s decision by the Supreme Court that recognized that LGBT people—like other Americans—have the right to marry the person they love. But there is still much work to be done. LGBT kids continue to be bullied at school, restaurants can refuse to serve transgender people, and same-sex couples are at risk of being evicted from their homes. That is unacceptable and must change.”\n<br>\n<br>-Democratic Party Platform",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/237923?lang=en\" data-toolbar=\"-mbrBtnMove\">Join the LGBT Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://survey.azblueleader.com/index.php/237923?lang=en\" data-toolbar=\"-mbrBtnMove\">Join the LGBT Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\">Donate</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -106,7 +109,7 @@
             "overlayOpacity": 0.2
           },
           "title": "Message from the Chair",
-          "text": "<p>What is the role of the caucus as a leader and voice for its community in arizona?</p>",
+          "text": "<p>The Arizona Democratic Party LGBT Caucus supports policy and legislation that is provides protection and draws inclusion of the LGBTQ+ Community both locally, statewide, and Nationally. We support LGBTQ+ and/or strong Ally candidates. Your LGBT Caucus is working to increase visibility, increase membership, and have a long-lasting impact throughout our beautiful state of Arizona. We look forward to working with you! \n</p><p>\n- Ray Bradford, LGBT Caucus Chair</p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -189,28 +192,28 @@
                 "image": "@PROJECT_PATH@/assets/images/1176395-10151939637346671-2349637205558974472-n-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1176395-10151939637346671-2349637205558974472-n-960x720-767x576.jpg",
                 "alt": "",
-                "caption": "Fancy Captions Here!",
+                "caption": "LGBT Float!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/17757641-10154287080041671-6908084521618609155-n-1-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/17757641-10154287080041671-6908084521618609155-n-1-960x720-767x576.jpg",
                 "alt": "",
-                "caption": "Fancy Captions Here!",
+                "caption": "Protecting our rights!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720-800x600.jpg",
                 "alt": "",
-                "caption": "Fancy Captions Here!",
+                "caption": "Democracy First!",
                 "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480-550x404.jpg",
                 "alt": "",
-                "caption": "Fancy Captions Here!",
+                "caption": "Local leadership.",
                 "active": true
               }
             ]
@@ -406,7 +409,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">LGBT Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whitehatdemocrats.com/pc_app.html#content5-u\" aria-expanded=\"false\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">LGBT Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whitehatdemocrats.com/pc_app.html#content5-u\" aria-expanded=\"false\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -458,12 +461,12 @@
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/azlgbtdems/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         ",
           "_tags": [
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-18"
+          "_anchor": "social-buttons2-23"
         },
         {
           "_params": {
@@ -539,7 +542,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "CaucusLeaders",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -568,7 +571,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/capplanetskin-feat-970x545.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ray-300x300.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -597,7 +600,7 @@
             "showMeta": true
           },
           "title": "Ray Bradford, Chair",
-          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: 602.618.9100 \n<br>Email: chair@azlgbtdems.org<br>",
+          "meta": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Ray comes from central and southern Illinois.  He discovered activism in 1982 when he joined the Gay and Lesbian People’s Union at Southern Illinois University at Carbondale.  Leadership in the GLPU taught many lessons, one of which was to stand up and take your equality.  After moving to Phoenix in 1990, Ray found a large urban community as well as other causes to support.  Serving as a volunteer at 1-N-10 on and off from the mid-90’s through the mid-2000’s, and later, finding a place volunteering to serve our young homeless neighbors at Tumbleweed, Ray had discovered an abiding  passion for protecting our youth and young adults.  As a survivor of severe bullying in elementary school, Ray knows well how important it is to have positive role models and access to quality support.  In late 2011, an organizer with Obama For America recruited Ray to volunteer with the campaign to re-elect President Obama, and he was immediately infected with the passion-for-politics bug. </p><br><p>&nbsp;&nbsp;&nbsp;&nbsp; Since then, Ray has served in many positions within the Democratic Party; as a Precinct Committee Person for the Westward Ho Precinct, as a member of the State Committee of the Arizona Democratic Party, as Chair of Fundraising with the District 24 Democrats (LD24), and as an event organizer and fundraiser for the Maricopa County Democratic Party (MCDP), LD24, as well as various candidates, including working for the successful Campaign to Elect Adrian Fontes Maricopa County Recorder.  Ray was elected to Chair the LGBT Caucus of the Arizona Democratic Party in January of  2017, and has recently accepted the position of Chair of the Committee of Access and Inclusion for MCDP to address issues of importance to Persons With Disabilities.  Ray lives in downtown Phoenix with his two black cats and manages an optical shop for a popular national retailer.  \n<br>\n<br>\n<br>Phone: 602.618.9100 \n<br>Email: chair@azlgbtdems.org<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -640,8 +643,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Lisa Malachowsky, Vice Chair",
-          "meta": "<br>Hello,<br><br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:<br><br>Sincerely,<br><br>Signer<br><br>Phone: 925.759.4360 \n<br>Email: vicechair@azlgbtdems.org<br>",
+          "title": "&nbsp;Dante Mitchell, Vice Chair",
+          "meta": "<br>Hello,<br><br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:<br><br>Sincerely,<br><br>Signer<br><br>Email: vicechair@azlgbtdems.org<br>",
           "_tags": [
             "Theme"
           ],
@@ -687,8 +690,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Jade Richardson, Secretary",
-          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: 925.759.4360 \n<br>Email: vicechair@azlgbtdems.org",
+          "title": "Louisa Brill, Secretary",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: 925.759.4360 \n<br>Email: secretary@azlgbtdems.org",
           "_tags": [
             "Theme"
           ],
@@ -734,8 +737,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "\r<div><span style=\"color: inherit; font-family: inherit;\">Ben Whaley, Treasurer</span><br></div>",
-          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone: 925.759.4360 \n<br>Email: vicechair@azlgbtdems.org",
+          "title": "\n<div><span style=\"color: inherit; font-family: inherit;\">Claudia Clark, Treasurer</span><br></div>",
+          "meta": "Hello,\n<br>\n<br>hope this will also help - writing it I thought exactly about this - how a person in a sphere totally outside web design could manage to make a web site - what's needed, what he/ she should think about first and so on. \n<br>\n<br>Frankly when the article was written the current version of the software was something about middle v2 so since then meny things have changed but just give ti a try and make sure you ask what you need and can't find in the forums - I'll try helping whatever I can ;) \n<br>\n<br>Btw thank you for this post - you gave me just the right push since there are a lot of useful things around but maybe I should systemetize them a bit. Let's see if I can: \n<br>\n<br>A few words about what is this hosting, how to upload to it adn so on:\n<br>\n<br>Sincerely,\n<br>\n<br>Signer\n<br>\n<br>Phone:&nbsp;<br>Email: treasurer@azlgbtdems.org",
           "_tags": [
             "Theme"
           ],
@@ -762,7 +765,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -845,7 +848,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Mission",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -954,7 +957,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1037,7 +1040,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Membership",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -1121,7 +1124,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1204,7 +1207,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Community Partners",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -1428,10 +1431,10 @@
                 "active": false
               },
               {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19437255-10154527910511671-7590571568737904618-n-1-300x300.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19437255-10154527910511671-7590571568737904618-n-1-300x300-300x300.jpg",
                 "alt": "",
-                "caption": "Additional Orgs and Logos - perhaps include a summary of what kind of work they do in the LGBT community",
+                "caption": "Secretary, Jade Richardson, speaking about the LGBT Caucus and ways to get involved to attendees at the We The People Summit.&nbsp;<br>",
                 "active": true
               }
             ]
@@ -1455,7 +1458,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://en.wikipedia.org/wiki/ActBlue\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\">Donate</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1538,7 +1541,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 5",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -1554,7 +1557,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">LGBT Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whitehatdemocrats.com/pc_app.html#content5-u\" aria-expanded=\"false\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://en.wikipedia.org/wiki/ActBlue\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">LGBT Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whitehatdemocrats.com/pc_app.html#content5-u\" aria-expanded=\"false\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1629,6 +1632,256 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1w"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Bylaws",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">LGBT Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whitehatdemocrats.com/pc_app.html#content5-u\" aria-expanded=\"false\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Arizona Democratic Party <br>LGBT Bylaws<br><br>",
+          "meta": "Originally submitted to the ADP on January 27,2008.\n<br>\n<br>Amended on June 21, 2008<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "text": "<p><br>BYLAWS OF THE ARIZONA DEMOCRATIC PARTY\n</p><p>LESBIAN, GAY, BISEXUAL, AND TRANSGENDER CAUCUS</p><p><br></p><p>\n</p><p>\n</p><p>ARTICLE I:\n</p><p>NAME AND STATUS</p><p>The name of the organization shall be The Arizona Democratic Party Lesbian, Gay,</p><p>Bisexual, and Transgender Caucus but may also be referred to as the ADP LGBT Caucus, or\n</p><p>the LGBT Caucus. The LGBT Caucus shall be affiliated with the Arizona Democratic Party\n</p><p>(ADP). As an affiliated Caucus of the ADP, the GLBT Caucus shall follow the Bylaws of the ADP\n</p><p>and shall not have any bylaw or policy that is in conflict with or in contradiction to the bylaws of\n</p><p>the ADP.\n</p><p>\n</p><p><br></p><p>ARTICLE II:\n</p><p>PURPOSE\n</p><p>The LGBT Caucus is devoted to advancing equal rights for all people, regardless of\n</p><p>sexual orientation or gender identity. The LGBT Caucus will participate in the policy decisions\n</p><p>and the outreach programs of the ADP to maximize support of the Democratic Party and its\n</p><p>endorsed candidates. The LGBT Caucus will recruit and support LGBT candidates for elected\n</p><p>office. The LGBT Caucus will recruit and support LGBT candidates for ADP leadership\n</p><p>positions at the state and local levels. The LGBT Caucus will recruit and support LGBT\n</p><p>candidates for the delegation to the Democratic National Convention and Committees.\n</p><p>\n</p><p><br></p><p>ARTICLE III:\n</p><p>QUALIFICATIONS FOR MEMBERSHIP\n</p><p>Any Democrat registered to vote in the State of Arizona who by signing a membership\n</p><p>list subscribes to the purposes of the LGBT Caucus as described in Article II and complies with\n</p><p>the provisions of these bylaws shall be a member of the LGBT Caucus (a “Member”).\n</p><p>\n</p><p><br></p><p>ARTICLE IV:\n</p><p>MEMBERSHIPAND MAILING LISTS\n</p><p>The Secretary of the LGBT Caucus shall maintain the list of Members, which shall\n</p><p>include as a minimum, the name and last known voter registration address of the Member\n</p><p>and the date on which the Member first qualified for membership. The list shall only be used\n</p><p>for purposes related to the LGBT Caucus and only with the approval of the LGBT Caucus\n</p><p>Executive Committee.\n</p><p>\n</p><p><br></p><p>ARTICLE V:\n</p><p>OFFICERS\n</p><p>SECTION ONE: The officers of the LGBT Caucus shall be Chair, Vice Chair, Secretary, and\n</p><p>Treasurer.\n</p><p>SECTION TWO: The LGBT Caucus shall strive to maintain gender equity and regional\n</p><p>representation when electing officers.\n</p><p>SECTION THREE: The elected officers, and Chairpersons of the standing committees of the\n</p><p>LGBT Caucus shall constitute the Executive Committee.\n</p><p>SECTION FOUR: The Executive Committee shall be the administrative body of the LGBT Caucus\n</p><p>and shall have the power and authority between membership meetings to do and perform all\n</p><p>acts and functions that the LGBT Caucus itself might do or perform, which are consistent with\n</p><p>these Bylaws.\n</p><p>SECTION FIVE: The term of office for the officers shall be two (2) years and shall begin at the\n</p><p>end of the annual meeting at which they are elected. There are no term limits.\n</p><p>\n</p><p><br></p><p>ARTICLE VI:\n</p><p>OFFICERS’ DUTIES\n</p><p>SECTION ONE: The Chair shall preside at all meetings of the LGBT Caucus and the Executive\n</p><p>Committee, shall appoint Ad Hoc committees, shall represent the LGBT Caucus on the\n</p><p>Arizona State Central Executive Committee, and shall perform other duties that are pertinent\n</p><p>to the office.\n</p><p>SECTION TWO: The Vice Chair shall assume the duties of the Chair during any absence,\n</p><p>incapacity, or temporary disability of the Chair and perform such duties as may be assigned by\n</p><p>the Chair.\n</p><p>SECTION THREE: The Secretary shall maintain the membership and mailing lists, keep the\n</p><p>minutes of all meetings of the LGBT Caucus, send out notices of all meetings, and perform\n</p><p>other duties that are pertinent to the office. The Secretary shall be the custodian of all the\n</p><p>papers of the LGBT Caucus. The Secretary, at the expiration of his/her term, shall surrender\n</p><p>all property of the LGBT Caucus in his/her possession to the Chair.\n</p><p>SECTION FOUR: The Treasurer shall receive all monies, pay all bills as ordered by the Executive\n</p><p>Committee, make a report of the expenses of the LGBT Caucus at each meeting of the\n</p><p>Executive Committee, and make a financial statement to the members at the meeting of the\n</p><p>LGBT Caucus. The Treasurer shall be the custodian of all the financial records of the LGBT\n</p><p>Caucus. The Treasurer, at the expiration of his/her term, shall surrender all property of the\n</p><p>LGBT Caucus in his/her possession to the Committee.\n</p><p>\n</p><p><br></p><p>ARTICLE VII:\n</p><p>RESIGNATIONS, REMOVALS, AND VACANCIES\n</p><p>SECTION ONE: Resignations of a member of the Executive Committee shall be effective upon\n</p><p>receipt of such resignation, in writing, to the Chair.\n</p><p>SECTION TWO: A member of the Executive Committee may be removed by a 2/3rds vote of the\n</p><p>Executive Committee for malfeasance or for conduct clearly contrary to the purposes or best\n</p><p>interests of the LGBT Caucus.\n</p><p>SECTION THREE: Any member of the Executive Committee who is absent (unexcused) from\n</p><p>two (2) consecutive meetings may be subject to removal.\n</p><p>SECTION FOUR: The Executive Committee shall fill by appointment, pending special election\n</p><p>upon due notice of the membership, any vacancies on the Executive Committee\n</p><p>\n</p><p><br></p><p>ARTICLE VIII:\n</p><p>Standing Committees\n</p><p>The Chair shall appoint the members of each standing committee from the\n</p><p>membership of the LGBT Caucus. Each standing committee may appoint from among its own\n</p><p>number a chair of such committee. Meetings of any standing committee shall be called by the\n</p><p>chair of the committee by giving notice of the time and place of meeting to each member of\n</p><p>the committee.\n</p><p>The LGBT Caucus resolves that the Chairperson of all standing committees shall sit as\n</p><p>a member of the Executive Committee.\n</p><p>\n</p><p>Fundraising Committee:\n</p><p>The Fundraising Committee will raise funds to further the Purpose of the LGBT Caucus.\n</p><p>The Treasurer shall be a member of the Fundraising Committee. The Fundraising\n</p><p>Committee is empowered to solicit monetary and in-kind contributions and to sell items\n</p><p>promoting the LGBT Caucus.\n</p><p>\n</p><p>Membership Committee:\n</p><p>The Membership Committee shall recruit members, greet new members, and\n</p><p>maintain the membership list in coordination with the Secretary. The Vice Chair shall\n</p><p>be a member of the Membership Committee. The Membership Committee may\n</p><p>coordinate participation at community events such as gay pride festivals &amp; parades,\n</p><p>political conventions, and other activities. In coordination with the Secretary, the\n</p><p>Membership Committee shall provide regular reports to the membership regarding\n</p><p>the activities of the LGBT Caucus.\n</p><p>\n</p><p>Rules &amp; Bylaws Committee:\n</p><p>The Rules &amp; Bylaws Committee shall maintain the Bylaws, Rules, &amp; Procedures of the\n</p><p>LGBT Caucus. The Vice Chair shall be a member of the Rules &amp; Bylaws Committee.\n</p><p>The Rules &amp; Bylaws Committee shall review all rules, procedures and bylaws on a\n</p><p>regular basis and shall make recommendations for any changes, additions or deletions\n</p><p>to the membership.\n</p><p>\n</p><p>Regional Advisory Committee:\n</p><p>The Regional Advisory Committee should consist of one member from each county of\n</p><p>Arizona in so far as that is possible. The Caucus shall actively seek such members in\n</p><p>un-represented counties. The Chair shall be a member of the Regional Advisory\n</p><p>Committee. The Regional Advisory Committee shall bring issues related to geographic\n</p><p>diversity to the attention of the LGBT Caucus. The Members of the Regional Advisory\n</p><p>Committee shall be elected by a majority of the Members of the LGBT Caucus’ from\n</p><p>each represented County present at the annual meeting or at any meeting in case of a\n</p><p>vacancy.\n</p><p>\n</p><p><br></p><p>ARTICLE IX:\n</p><p>MEETINGS\n</p><p>SECTION ONE: The Executive Committee shall meet at least four (4) times during the year. At\n</p><p>least one such meeting shall be held on a face-to-face basis. Other such meetings may be by\n</p><p>teleconference, email or other similar communication. Participation by such means shall\n</p><p>constitute presence at such meetings. A quorum for the Executive Committee shall be a\n</p><p>majority of its membership, excluding vacancies.\n</p><p>SECTION TWO: Special meetings may be called by a 2/3rds vote of the Executive Committee\n</p><p>and may be called by teleconference or email.\n</p><p>SECTION THREE: The membership shall convene annually at a time and place to be\n</p><p>determined by the Executive Committee and shall be in conjunction with a meeting of the ADP.\n</p><p>The membership shall receive at least thirty (30) days notice of the annual meeting by mail,\n</p><p>email or telephone. Additional membership meetings may be called by a majority of the\n</p><p>Executive Committee or ten percent (10%) of the membership. A quorum for the annual\n</p><p>meeting shall be ten percent (10%) of the membership. The quorum requirement may be\n</p><p>waived by a 2/3rds vote of the Executive Committee.\n</p><p>\n</p><p><br></p><p>ARTICLE X:\n</p><p>NOMINATIONS AND ELECTIONS\n</p><p>SECTION ONE: A nominating committee shall be appointed by the Chair and shall present a\n</p><p>slate of at least one member nominated for each office. Names of proposed officers may also\n</p><p>be placed in nomination from the floor during the annual meeting.\n</p><p>SECTION TWO: Elections shall be held at the annual meeting held in odd calendar years.\n</p><p>\n</p><p><br></p><p>ARTTCLE XI:\n</p><p>AMENDMENT OF BYLAWS\n</p><p>The Bylaws for the LGBT Caucus may be amended a general membership meeting by a\n</p><p>2/3rds majority vote of the members present, providing that a copy of the proposed\n</p><p>amendment(s) has been sent to the members at least thirty (30) days prior to the meeting of\n</p><p>the LGBT Caucus.\n</p><p>\n</p><p><br></p><p>ARTICLE XII:\n</p><p>PARLIAMENTARY AUTHORITY\n</p><p>The most recent edition of Robert’s Rules of Order Newly Revised shall govern the\n</p><p>LGBT Caucus.\n</p><p>\n</p><p><br></p><p>ARTICLE XIII:\n</p><p>ANTIDISCRIMINATION PROVISIONS\n</p><p>The LGBT Caucus shall not discriminate on the basis of race, color, religion, sex, ethnic\n</p><p>or national origin, age, disability, veteran status, social or economic status, marital status,\n</p><p>sexual orientation, gender identity or expression, or any other factor unrelated to membership\n</p><p>and the purpose of the LGBT Caucus.\n</p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-22",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBT Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azlbgtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1y"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Proposed Bylaws/Resolutions",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "ADP MAKES HISTORY AT MAY 20th STATE COMMITTEE MEETING\r<div>\r</div><div><br></div>",
+          "meta": "BYLAWS CHANGED TO BE INCLUSIVE OF GENDER IDENTITY, WRITTEN BY OUR CHAIR RAY BRADFORD\n<br>\n<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28"
+        },
+        {
+          "text": "<p>Via the Arizona Democratic Party:<br></p><p>\n</p><p>“At this Saturday’s state committee meeting, the governing body of the Arizona Democratic Party unanimously approved to change the party’s bylaws to include language that embraces all persons regardless of gender identity to have greater accessibility to the party’s leadership positions.\n</p><p>\n</p><p>In an unprecedented and very progressive action, the Arizona Democratic Party is leading other state parties, and even the national party, to make a concerted effort to be more inclusive of transgender and non-binary gender individuals.\n</p><p>\n</p><p>Changes made to Article III Section’s 1 and 2 of the Arizona Democratic Party’s bylaws include:\n</p><p>\n</p><p>The first Vice Chair of the Arizona Democratic Party must identify as a different gender than the Chair, as opposed to must be of a different gender from previous bylaw.\n</p><p>\n</p><p>The State Committee eliminated the 3 male and 3 female Vice Chairs requirement and replaced it with 6 Vice Chairs where no more than 3 can identify as the same gender.\n</p><p>\n</p><p>Statement from the Arizona Democratic Party LGBT Caucus Chair Ray Bradford:\n</p><p>\n</p><p>‘As Democrats, we embrace the inclusion of all people, regardless of gender identity. As our party continues to move forward, we look for ways to ensure our party infrastructure and administration embody our shared values and ideals. It was time to modify our bylaws to increase accessibility to positions of power. In that vein, we offered this change. We understand that this is not perfect, and that more changes will occur in the future to create an environment wherein every Democrat feels they can attain and access office within our party. This is a small step forward for us all.'”\n</p><p>\n</p><p>Visit the Arizona Democratic Party News Page here. \n</p><p>\n</p><p>Posted June 3, 2017</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-27"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission/Vision<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Message%20in%20a%20bottle.pdf\" aria-expanded=\"false\" target=\"_blank\">LGBT Caucus ByLaws<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">Community Partners<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://whitehatdemocrats.com/pc_app.html#content5-u\" aria-expanded=\"false\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-24"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBT Caucus<br>2910 N Central Ave, Phoenix, AZ 85012",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@azlbgtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\">Democratic National Committee</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-25"
         }
       ]
     }
