@@ -199,23 +199,15 @@
 #content1-22 P {
   text-align: left;
 }
-#dropdown-menu-2btn-24 .hide-buttons [data-button] {
-  display: none !important;
+#ext_menu-1p .mbr-brand__name {
+  font-size: 16px;
 }
-#dropdown-menu-2btn-24 .nav .link,
-#dropdown-menu-2btn-24 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
+#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
 }
-#dropdown-menu-2btn-24 .navbar,
-#dropdown-menu-2btn-24 .dropdown-menu {
-  background: #333333;
+#ext_menu-1p .mbr-navbar__section {
+  background: #2c2c2c;
 }
-#dropdown-menu-2btn-24 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-24 .dropdown-menu a:hover,
-#dropdown-menu-2btn-24 .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-2btn-24 .navbar-toggler {
+#ext_menu-1p .mbr-navbar__hamburger {
   color: #ffffff;
 }
