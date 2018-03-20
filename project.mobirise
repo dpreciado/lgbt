@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADP LGBT Caucus",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1434,7 +1434,7 @@
                 "image": "@PROJECT_PATH@/assets/images/19437255-10154527910511671-7590571568737904618-n-1-300x300.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/19437255-10154527910511671-7590571568737904618-n-1-300x300-300x300.jpg",
                 "alt": "",
-                "caption": "Secretary, Jade Richardson, speaking about the LGBT Caucus and ways to get involved to attendees at the We The People Summit.&nbsp;<br>",
+                "caption": "Former LGBT Secretary, Jade Richardson, speaking about the LGBT Caucus and ways to get involved to attendees at the We The People Summit.&nbsp;<br>",
                 "active": true
               }
             ]
