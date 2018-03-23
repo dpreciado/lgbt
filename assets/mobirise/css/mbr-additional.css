@@ -99,27 +99,24 @@
 #content5-14 .mbr-article {
   color: #fff;
 }
-#content5-15 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+#dropdown-menu-2btn-12 .hide-buttons [data-button] {
+  display: none !important;
 }
-#content5-15 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+#dropdown-menu-2btn-12 .nav .link,
+#dropdown-menu-2btn-12 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
 }
-#content5-15 .mbr-article {
-  color: #fff;
+#dropdown-menu-2btn-12 .navbar,
+#dropdown-menu-2btn-12 .dropdown-menu {
+  background: #333333;
 }
-#ext_menu-1p .mbr-brand__name {
-  font-size: 16px;
+#dropdown-menu-2btn-12 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-12 .dropdown-menu a:hover,
+#dropdown-menu-2btn-12 .dropdown-menu a:focus {
+  background: #292929;
 }
-#ext_menu-1p.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-1p .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#ext_menu-1p .mbr-navbar__hamburger {
+#dropdown-menu-2btn-12 .navbar-toggler {
   color: #ffffff;
 }
 #header3-1g H3 {
