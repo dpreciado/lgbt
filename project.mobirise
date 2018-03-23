@@ -409,7 +409,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -756,58 +756,6 @@
           "_anchor": "header3-1t"
         },
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1p"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -845,6 +793,58 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1a"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1v"
         }
       ]
     },
@@ -954,7 +954,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1072,58 +1072,6 @@
           }
         },
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1p"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1161,6 +1109,58 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1a"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1v"
         }
       ]
     },
@@ -1408,58 +1408,6 @@
           "_anchor": "gallery2-1o"
         },
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1p"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1497,6 +1445,58 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1a"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1v"
         }
       ]
     },
@@ -1520,7 +1520,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1681,56 +1681,56 @@
           "_anchor": "contacts1-1y"
         },
         {
-          "_inherit": "menu",
+          "_inherit": "dropdown-menu",
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
             "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
             },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
             },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
             },
-            ".mbr-navbar__hamburger": {
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "class": "",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1p"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1v"
         }
       ]
     },
@@ -1801,56 +1801,56 @@
           "_anchor": "contacts1-25"
         },
         {
-          "_inherit": "menu",
+          "_inherit": "dropdown-menu",
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": true,
+            "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
             "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Donate</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Who We Are</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">AZ Dem LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Caucus Membership</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\">Voter Registration</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Volunteers</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://survey.azblueleader.com/index.php/176141?lang=en\" aria-expanded=\"false\">Community Building -&nbsp;DemsForYou&nbsp;</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Party Building</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Proposed Bylaws &amp; Resolutions<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.google.com\" aria-expanded=\"false\" target=\"_blank\">Precinct Committee</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\">State Committee</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">DONATE</a></li>",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
             },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
             },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
             },
-            ".mbr-navbar__hamburger": {
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/cutmypic-127x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "class": "",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1p"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Arizona Democrats LGBT Caucus</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-1v"
         }
       ]
     }
