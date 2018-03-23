@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ADP LGBT Caucus",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -567,7 +567,7 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false
           },
           "media": {
@@ -616,13 +616,13 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-640x607.jpg",
+              "src": "@PROJECT_PATH@/assets/images/478772-10200454832004846-482344333-o-1400x1050.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -663,13 +663,13 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-1-640x607.jpg",
+              "src": "@PROJECT_PATH@/assets/images/26678675-116834092457438-5376012529610746381-o-1365x1365.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -710,13 +710,13 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-3-640x607.jpg",
+              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-4-640x607.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
