@@ -35,8 +35,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<div id=\"google_translate_element\"></div><script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');\n}\n</script><script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>",
-        "footer_custom": "",
+        "header_custom": "",
+        "footer_custom": "<div id=\"google_translate_element\"></div><script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');\n}\n</script><script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>",
         "html_before": ""
       },
       "components": [
