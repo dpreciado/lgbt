@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 186,
+    "uniqCompNum": 187,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -43,14 +43,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"google_translate_element\"></div>\n\n{JS_CODE_0}\n{JS_CODE_1}",
+          "_customHTML": "<div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-55",
+          "_anchor": "custom-html-56",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
