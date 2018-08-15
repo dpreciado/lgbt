@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 171,
+    "uniqCompNum": 186,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -36,7 +36,7 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<div id=\"google_translate_element\"></div><script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');\n}\n</script><script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>",
+        "footer_custom": "<div id=\"google_translate_element\"></div><script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script><script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>",
         "html_before": ""
       },
       "components": [
@@ -445,7 +445,8 @@
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-12"
+          "_anchor": "dropdown-menu-2btn-12",
+          "_customCSS": ""
         },
         {
           "_params": {
@@ -576,6 +577,23 @@
           "_anchor": "custom-html-4d",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div id=\"google_translate_element\"></div>\n\n{JS_CODE_0}\n{JS_CODE_1}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-55",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ]
         }
       ]
     },
@@ -583,7 +601,7 @@
       "settings": {
         "meta_descr": "Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.",
         "title": "Privacy",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -741,7 +759,7 @@
       "settings": {
         "meta_descr": "If our website is not compatible with your accessibility tools, please contact us at (602) 298-4200 or email info@azdem.org for support. Let us know what you what the obstacle is and we will look to remedy the situation in a timely manner. For users who have additional accessibility assistance need, we can be reached by Federal Information Relay Service at 1-800-877-8339.",
         "title": "Accessibility",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -903,7 +921,7 @@
       "settings": {
         "meta_descr": "Terms and Conditions",
         "title": "Terms and Conditions",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1061,7 +1079,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Proposed ADP Bylaws/Resolutions",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1214,7 +1232,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Membership",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1399,7 +1417,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Mission",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1579,7 +1597,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "CaucusLeaders",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1922,7 +1940,7 @@
       "settings": {
         "meta_descr": "Your Vote Matters, Q the Vote!",
         "title": "QtheVote",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2300,7 +2318,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "LGBTQ Blog",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2446,7 +2464,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Bylaws",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2616,7 +2634,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "EventsCalendar",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
