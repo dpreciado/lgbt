@@ -35,26 +35,6 @@
   text-align: center;
   color: #ffffff;
 }
-#dropdown-menu-2btn-12 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-12 .nav .link,
-#dropdown-menu-2btn-12 .dropdown-item {
-  font-size: 1em;
-  color: #f8f3f2;
-}
-#dropdown-menu-2btn-12 .navbar,
-#dropdown-menu-2btn-12 .dropdown-menu {
-  background: #2b2523;
-}
-#dropdown-menu-2btn-12 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-12 .dropdown-menu a:hover,
-#dropdown-menu-2btn-12 .dropdown-menu a:focus {
-  background: #201b1a;
-}
-#dropdown-menu-2btn-12 .navbar-toggler {
-  color: #f8f3f2;
-}
 #social-buttons2-23 .mbr-header__text {
   color: #ffffff;
 }
