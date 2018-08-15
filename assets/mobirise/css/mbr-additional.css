@@ -1,10 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
-#custom-html-56 {
-  /* Type valid CSS here */
-}
-#custom-html-56 .my-image {
-  width: 100%;
-}
 #header1-1 .btn {
   font-size: 16px;
 }
@@ -34,6 +28,26 @@
 #gallery1-3 SMALL {
   text-align: center;
   color: #ffffff;
+}
+#dropdown-menu-2btn-12 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-12 .nav .link,
+#dropdown-menu-2btn-12 .dropdown-item {
+  font-size: 1em;
+  color: #f8f3f2;
+}
+#dropdown-menu-2btn-12 .navbar,
+#dropdown-menu-2btn-12 .dropdown-menu {
+  background: #2b2523;
+}
+#dropdown-menu-2btn-12 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-12 .dropdown-menu a:hover,
+#dropdown-menu-2btn-12 .dropdown-menu a:focus {
+  background: #201b1a;
+}
+#dropdown-menu-2btn-12 .navbar-toggler {
+  color: #f8f3f2;
 }
 #social-buttons2-23 .mbr-header__text {
   color: #ffffff;
