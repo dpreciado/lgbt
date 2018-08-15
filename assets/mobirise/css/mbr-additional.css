@@ -1,4 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+#custom-html-55 {
+  /* Type valid CSS here */
+}
+#custom-html-55 .my-image {
+  width: 100%;
+}
 #header1-1 .btn {
   font-size: 16px;
 }
@@ -62,12 +68,6 @@
   border: 1px solid black ;
   text-align: center ;
   padding: 10px ;
-}
-#custom-html-55 {
-  /* Type valid CSS here */
-}
-#custom-html-55 .my-image {
-  width: 100%;
 }
 #header3-3d H3 {
   text-align: center;
