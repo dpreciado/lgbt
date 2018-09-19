@@ -564,9 +564,12 @@
           "_name": "footer1",
           "_anchor": "footer1-2l",
           "_customCSS": "",
-          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"12\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"88\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
           "_customTemplate": true
         },
         {
@@ -582,23 +585,6 @@
           "_anchor": "custom-html-4d",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}",
-          "_customCSS": "",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-5c",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
-            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
-          ]
         }
       ]
     },
