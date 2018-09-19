@@ -545,6 +545,20 @@
           "_customCSS": ""
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-4d",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -562,29 +576,15 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2l",
-          "_customCSS": "",
-          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"88\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_anchor": "footer1-4m",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"124\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
             "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
           ],
+          "_customCSS": "",
           "_customTemplate": true
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
-          "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-4d",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         }
       ]
     },
@@ -730,7 +730,15 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3c"
+          "_anchor": "footer1-3c",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"102\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -807,16 +815,16 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff"
+              "color": "#f8f3f2"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#2b2523"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#201b1a"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f8f3f2"
             }
           },
           "logo": {
@@ -892,7 +900,15 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-36"
+          "_anchor": "footer1-36",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"104\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -965,16 +981,16 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff"
+              "color": "#f8f3f2"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#2b2523"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#201b1a"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f8f3f2"
             }
           },
           "logo": {
@@ -1050,7 +1066,15 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-2y"
+          "_anchor": "footer1-2y",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"106\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -1203,7 +1227,14 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-3s",
-          "_customCSS": ""
+          "_customCSS": "",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"108\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -1400,7 +1431,14 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-3s",
-          "_customCSS": ""
+          "_customCSS": "",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"116\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         }
       ]
     },
@@ -1568,7 +1606,14 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-3s",
-          "_customCSS": ""
+          "_customCSS": "",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"118\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -1923,7 +1968,14 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-3s",
-          "_customCSS": ""
+          "_customCSS": "",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"120\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         }
       ]
     },
@@ -2288,7 +2340,15 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3s"
+          "_anchor": "footer1-3s",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"100\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -2436,7 +2496,14 @@
           ],
           "_name": "footer1",
           "_customCSS": "",
-          "_anchor": "footer1-4i"
+          "_anchor": "footer1-4i",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"98\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
@@ -2618,7 +2685,14 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-3s",
-          "_customCSS": ""
+          "_customCSS": "",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"110\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         }
       ]
     },
@@ -2802,7 +2876,14 @@
           ],
           "_name": "footer1",
           "_customCSS": "",
-          "_anchor": "footer1-4m"
+          "_anchor": "footer1-4m",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"124\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
+            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
+          ],
+          "_customTemplate": true
         },
         {
           "_customTemplate": true,
