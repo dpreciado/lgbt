@@ -73,19 +73,19 @@
 #dropdown-menu-2btn-3a .nav .link,
 #dropdown-menu-2btn-3a .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #f8f3f2;
 }
 #dropdown-menu-2btn-3a .navbar,
 #dropdown-menu-2btn-3a .dropdown-menu {
-  background: #333333;
+  background: #2b2523;
 }
 #dropdown-menu-2btn-3a .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-3a .dropdown-menu a:hover,
 #dropdown-menu-2btn-3a .dropdown-menu a:focus {
-  background: #292929;
+  background: #201b1a;
 }
 #dropdown-menu-2btn-3a .navbar-toggler {
-  color: #ffffff;
+  color: #f8f3f2;
 }
 #custom-html-3u .clearbox {
   font-size: 18px ;
