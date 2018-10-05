@@ -18,16 +18,18 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 193,
+    "uniqCompNum": 194,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115016310-6\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-115016310-6');\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115016310-5\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-115016310-5');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "siteUrl": "undefined",
     "gdpr": "",
-    "siteFonts": []
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -65,7 +67,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "LGBTQ Caucus",
-          "text": "<br>“Democrats applaud last year’s decision by the Supreme Court that recognized that LGBT people—like other Americans—have the right to marry the person they love. But there is still much work to be done. LGBT kids continue to be bullied at school, restaurants can refuse to serve transgender people, and same-sex couples are at risk of being evicted from their homes. That is unacceptable and must change.”\n<br>\n<br>-Democratic Party Platform",
+          "text": "<br>\"It is true there are herous all around us. &nbsp;Sometimes, we dont see them. &nbsp;Thought they are right in front of us.\"<br><br>Ray Bradford<br>Chair ADP Democratic Party&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://goo.gl/forms/JYiGA5GnyX8sEPgA2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the LGBT Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contribute</a>  ",
           "_tags": [
             "Theme"
@@ -80,43 +82,128 @@
           "_customCSS": ""
         },
         {
-          "_inherit": "msg-box3",
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
+            "showMeta": true,
             "showText": true,
-            "showButton": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f8f3f2",
+            "bgColor": "#553982",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#766560",
-            "overlayOpacity": 0.2
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "Message from the ADP Chair",
-          "text": "<p>The Arizona Democratic Party Caucuses are an important link between communities and our party leadership. Our caucuses are truly engaged in the issues that are most pressing in today's environment. As a members of the caucuses you will find a welcoming community. We thank you for being a part of something greater and look forward to working with each of you.</p><p><br></p><p>\n</p><p>Felecia Rotellini - Arizona Democratic Party Chair<br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/30072988-10109436489346601-5605052905735893974-o-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Rest in Peace Friend",
+          "text": "<p>It it with heavy hearts that we share the news of the passing of Ray Bradford. In everything he said and did you could see his heart for people. He brought a light to every room - and that light will not be replaced. He was one of a kind and we will miss him dearly.&nbsp;<br></p><p>\nIn Loving Memory of our fearless leader Ray.  We miss you.</p><p>Please consider donating in his honor.</p>",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-8",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"3\" style=\"background-color: rgb(248, 243, 242);\">\n    \n    <div class=\"mbr-section__container container mbr-section__container--first\" style=\"padding-top: 93px;\">\n        <div class=\"mbr-header mbr-header--wysiwyg row\">\n            <div class=\"col-sm-8 col-sm-offset-2\">\n                <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"85\">Message from the ADP Chair</h3>\n                \n            </div>\n        </div>\n    </div>\n    <div class=\"mbr-section__container container mbr-section__container--last\" style=\"padding-bottom: 93px;\">\n        <div class=\"row\">\n            <div class=\"mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2 mbr-editable-full\" code-editable-id=\"86\"><p>The Arizona Democratic Party Caucuses are an important link between communities and our party leadership. Our caucuses are truly engaged in the issues that are most pressing in today's environment. As a members of the caucuses you will find a welcoming community. We thank you for being a part of something greater and look forward to working with each of you.</p><p><br></p><p>\n</p><p>Felecia Rotellini<br>Arizona Democratic Party Chair<br></p></div>\n        </div>\n    </div>\n    \n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-header .mbr-header__text {\n  text-align: center;\n  color: #2b2523;\n}\n.mbr-header .mbr-header__subtext {\n  text-align: center;\n  color: #fff;\n}\n.mbr-article {\n  color: #fff;\n}\n.mbr-article P {\n  color: #2b2523;\n}\n",
-          "_customTemplate": true
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "10/01/2018",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.azcentral.com/story/news/local/arizona/2018/10/01/lgbtq-caucus-democratic-party-passed-away/1494963002/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">News Update</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.facebook.com/raybradfordphx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Rays Memorial Fund</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5d"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#3c3c3c",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/12294661-10153248137605950-3472341765377386727-n-3-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12294661-10153248137605950-3472341765377386727-n-3-960x540-576x432.jpg",
+                "alt": "",
+                "caption": "Ray in his element. &nbsp;Helping people in need.",
+                "active": true,
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10295282-994156367265832-1783638347827195413-o-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10295282-994156367265832-1783638347827195413-o-2000x1333-800x581.jpg",
+                "alt": "",
+                "caption": "Ray &amp; Friends",
+                "active": false,
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/42984847-2667965709884163-6260936963122003968-o-1-1344x2017.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/42984847-2667965709884163-6260936963122003968-o-1-1344x2017-800x600.jpg",
+                "alt": "",
+                "caption": "Thank you for everything Ray",
+                "active": false,
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480-550x404.jpg",
+                "alt": "",
+                "caption": "Ray &amp; Friends",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -177,59 +264,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-n"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#3c3c3c",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/1176395-10151939637346671-2349637205558974472-n-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1176395-10151939637346671-2349637205558974472-n-960x720-767x576.jpg",
-                "alt": "",
-                "caption": "LGBT Float!",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/17757641-10154287080041671-6908084521618609155-n-1-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17757641-10154287080041671-6908084521618609155-n-1-960x720-767x576.jpg",
-                "alt": "",
-                "caption": "Protecting our rights!",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/391758-10151011934796671-564761565-n-960x720-800x600.jpg",
-                "alt": "",
-                "caption": "Democracy First!",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/22728683-10154843155656671-4999648690983895997-n-1-640x480-550x404.jpg",
-                "alt": "",
-                "caption": "Local leadership.",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-3",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          }
         },
         {
           "_params": {
@@ -401,7 +435,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -409,7 +443,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -439,8 +473,9 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
+              "link": "QtheVote.html",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -577,7 +612,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-4m",
-          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"124\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"15\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n</div>\n            </div>\n        </div>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
@@ -626,7 +661,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -664,7 +699,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -756,7 +791,7 @@
     },
     "Accessibility.html": {
       "settings": {
-        "meta_descr": "If our website is not compatible with your accessibility tools, please contact us at (602) 298-4200 or email info@azdem.org for support. Let us know what you what the obstacle is and we will look to remedy the situation in a timely manner. For users who have additional accessibility assistance need, we can be reached by Federal Information Relay Service at 1-800-877-8339.",
+        "meta_descr": "If you need help with accessibility, please email info@azlgbtdems.org",
         "title": "Accessibility",
         "order": 6
       },
@@ -796,7 +831,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -834,7 +869,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -962,7 +997,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -1000,7 +1035,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -1090,169 +1125,9 @@
         }
       ]
     },
-    "ADPproposals.html": {
-      "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Proposed ADP Bylaws/Resolutions",
-        "order": 8
-      },
-      "components": [
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "ADP MAKES HISTORY AT MAY 20th STATE COMMITTEE MEETING\n<div>\n</div><div><br></div>",
-          "meta": "BYLAWS CHANGED TO BE INCLUSIVE OF GENDER IDENTITY, WRITTEN BY OUR CHAIR RAY BRADFORD\n<br>\n<br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-28"
-        },
-        {
-          "text": "<p>Via the Arizona Democratic Party:<br></p><p>\n</p><p>“At this Saturday’s state committee meeting, the governing body of the Arizona Democratic Party unanimously approved to change the party’s bylaws to include language that embraces all persons regardless of gender identity to have greater accessibility to the party’s leadership positions.\n</p><p>\n</p><p>In an unprecedented and very progressive action, the Arizona Democratic Party is leading other state parties, and even the national party, to make a concerted effort to be more inclusive of transgender and non-binary gender individuals.\n</p><p>\n</p><p>Changes made to Article III Section’s 1 and 2 of the Arizona Democratic Party’s bylaws include:\n</p><p>\n</p><p>The first Vice Chair of the Arizona Democratic Party must identify as a different gender than the Chair, as opposed to must be of a different gender from previous bylaw.\n</p><p>\n</p><p>The State Committee eliminated the 3 male and 3 female Vice Chairs requirement and replaced it with 6 Vice Chairs where no more than 3 can identify as the same gender.\n</p><p>\n</p><p>Statement from the Arizona Democratic Party LGBT Caucus Chair Ray Bradford:\n</p><p>\n</p><p>‘As Democrats, we embrace the inclusion of all people, regardless of gender identity. As our party continues to move forward, we look for ways to ensure our party infrastructure and administration embody our shared values and ideals. It was time to modify our bylaws to increase accessibility to positions of power. In that vein, we offered this change. We understand that this is not perfect, and that more changes will occur in the future to create an environment wherein every Democrat feels they can attain and access office within our party. This is a small step forward for us all.'”\n</p><p>\n</p><p>Visit the Arizona Democratic Party News Page here. \n</p><p>\n</p><p>Posted June 3, 2017</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-27"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b2523",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-3r"
-        },
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#2b2523",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#f8f3f2"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#f8f3f2"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#2b2523"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#201b1a"
-            },
-            ".navbar-toggler": {
-              "color": "#f8f3f2"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-1v"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b2523",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3s",
-          "_customCSS": "",
-          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" data-rv-view=\"428\" style=\"background-color: rgb(43, 37, 35);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.9px; padding-bottom: 36.9px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"108\"></p><p><a href=\"page9.html\"></a>Copyright (c) 2018 White Hat Technology LLC&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"page9.html\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"page11.html\">Privacy Policy</a></p><p></p><div><div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}</div>\n            </div>\n        </div>\n    </div>\n</footer>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');\n}\n</script>",
-            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
-          ],
-          "_customTemplate": true
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
-          "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-4e"
-        }
-      ]
-    },
     "Membership.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "Sign up to become a member here",
         "title": "Membership",
         "order": 10
       },
@@ -1353,7 +1228,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -1391,7 +1266,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -1444,7 +1319,7 @@
     },
     "Mission.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "The Arizona Democratic Party LGBT Caucus supports policy and legislation that is provides protection and draws inclusion of the LGBTQ+ Community both locally, statewide, and Nationally. We support LGBTQ+ and/or strong Ally candidates. Your LGBT Caucus is working to increase visibility, increase membership, and have a long-lasting impact throughout our beautiful state of Arizona. We look forward to working with you!",
         "title": "Mission",
         "order": 11
       },
@@ -1540,7 +1415,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -1578,7 +1453,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -1631,7 +1506,7 @@
     },
     "CaucusLeaders.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "Our Caucus leadership",
         "title": "CaucusLeaders",
         "order": 12
       },
@@ -1888,7 +1763,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -1926,7 +1801,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -1981,7 +1856,7 @@
     },
     "QtheVote.html": {
       "settings": {
-        "meta_descr": "Your Vote Matters, Q the Vote!",
+        "meta_descr": "Your Vote Matters, Q the Vote. Commit to voting today!",
         "title": "QtheVote",
         "order": 4
       },
@@ -2236,7 +2111,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -2274,7 +2149,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -2368,7 +2243,7 @@
     },
     "LGBTQblog.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "LGBTQ Blog",
         "title": "LGBTQ Blog",
         "order": 3
       },
@@ -2430,7 +2305,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -2468,7 +2343,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -2521,7 +2396,7 @@
     },
     "Bylaws.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "LGBTQ Bylaws",
         "title": "Bylaws",
         "order": 9
       },
@@ -2619,7 +2494,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -2657,7 +2532,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
@@ -2698,7 +2573,7 @@
     },
     "EventsCalendar.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Events Calendar",
         "title": "EventsCalendar",
         "order": 2
       },
@@ -2809,7 +2684,7 @@
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#2b2523",
@@ -2847,7 +2722,7 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "QtheVote.html",
               "title": "",
               "linkInNewWindow": false
             }
