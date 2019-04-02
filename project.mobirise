@@ -18,18 +18,19 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 194,
-    "versionPublish": "4.8.2",
+    "uniqCompNum": 204,
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115016310-5\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-115016310-5');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "siteUrl": "undefined",
+    "siteUrl": "",
     "gdpr": "",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
@@ -67,7 +68,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "LGBTQ Caucus",
-          "text": "<br>\"It is true there are herous all around us. &nbsp;Sometimes, we dont see them. &nbsp;Thought they are right in front of us.\"<br><br>Ray Bradford<br>Chair ADP Democratic Party&nbsp;<br><br>",
+          "text": "<br>\"It is true there are heros all around us. &nbsp;Sometimes, we dont see them. &nbsp;Thought they are right in front of us.\"<br><br>Ray Bradford<br>Chair ADP Democratic Party&nbsp;<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://goo.gl/forms/JYiGA5GnyX8sEPgA2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Join the LGBT Caucus</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contribute</a>  ",
           "_tags": [
             "Theme"
@@ -443,7 +444,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -469,13 +470,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
               "link": "QtheVote.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -554,7 +554,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -570,7 +570,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -582,7 +582,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
@@ -669,7 +669,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -695,7 +695,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -723,7 +723,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -739,7 +739,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -778,14 +778,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-3u"
+          "_anchor": "custom-html-3u",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -839,7 +841,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -865,7 +867,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -893,7 +895,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -909,7 +911,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -948,14 +950,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-3v"
+          "_anchor": "custom-html-3v",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -1005,7 +1009,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1031,7 +1035,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1059,7 +1063,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1075,7 +1079,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1114,14 +1118,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-3w"
+          "_anchor": "custom-html-3w",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -1199,7 +1205,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1215,7 +1221,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1236,7 +1242,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1262,7 +1268,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1278,14 +1284,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-40"
+          "_anchor": "custom-html-40",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -1386,7 +1394,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1402,7 +1410,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -1423,7 +1431,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1449,7 +1457,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1493,14 +1501,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-4f"
+          "_anchor": "custom-html-4f",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -1537,7 +1547,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ray-300x300.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brianna-westbrook-653x653.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1565,8 +1575,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Ray Bradford, Chair",
-          "meta": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Ray comes from central and southern Illinois.  He discovered activism in 1982 when he joined the Gay and Lesbian People’s Union at Southern Illinois University at Carbondale.  Leadership in the GLPU taught many lessons, one of which was to stand up and take your equality.  After moving to Phoenix in 1990, Ray found a large urban community as well as other causes to support.  Serving as a volunteer at 1-N-10 on and off from the mid-90’s through the mid-2000’s, and later, finding a place volunteering to serve our young homeless neighbors at Tumbleweed, Ray had discovered an abiding  passion for protecting our youth and young adults.  As a survivor of severe bullying in elementary school, Ray knows well how important it is to have positive role models and access to quality support.  In late 2011, an organizer with Obama For America recruited Ray to volunteer with the campaign to re-elect President Obama, and he was immediately infected with the passion-for-politics bug. </p><br><p>&nbsp;&nbsp;&nbsp;&nbsp; Since then, Ray has served in many positions within the Democratic Party; as a Precinct Committee Person for the Westward Ho Precinct, as a member of the State Committee of the Arizona Democratic Party, as Chair of Fundraising with the District 24 Democrats (LD24), and as an event organizer and fundraiser for the Maricopa County Democratic Party (MCDP), LD24, as well as various candidates, including working for the successful Campaign to Elect Adrian Fontes Maricopa County Recorder.  Ray was elected to Chair the LGBT Caucus of the Arizona Democratic Party in January of  2017, and has recently accepted the position of Chair of the Committee of Access and Inclusion for MCDP to address issues of importance to Persons With Disabilities.  Ray lives in downtown Phoenix with his two black cats and manages an optical shop for a popular national retailer.  \n<br>\n<br>\n<br>Phone: (602) 298-4200\n<br>Email: chair@info@azlgbtdems.org<br></p>",
+          "title": "Brianna Westbrook, Chair",
+          "meta": "<p>Bio update pending.</p><p>Phone: (623) 217-9233<br>Email: bwestbrook@azlgbtqdems.org<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1586,7 +1596,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/478772-10200454832004846-482344333-o-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brion-neeley-1400x933.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1609,8 +1619,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "&nbsp;Dante Mitchell, Vice Chair",
-          "meta": "<br>Bio Coming Soon!<br><br>Phone:&nbsp;(602) 298-4200<br>Email: vicechair@azlgbtdems.org<br>",
+          "title": "&nbsp;Brion Neeley-Ryder, 1st Vice Chair",
+          "meta": "<br>Bio Coming Soon!<br><br>Phone:&nbsp;(602) 525-3919<br>Email: bneeley@azlgbtqdems.org<br>",
           "_tags": [
             "Theme"
           ],
@@ -1633,7 +1643,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/26678675-116834092457438-5376012529610746381-o-1365x1365.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jordan-harb-1400x934.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1656,8 +1666,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Louisa Brill, Secretary",
-          "meta": "Bio Coming Soon!\n<br>\n<br>Phone:&nbsp;(602) 298-4200<br>Email: secretary@azlgbtdems.org",
+          "title": "Jordan Harb, 2nd Vice Chair",
+          "meta": "Bio Coming Soon!\n<br><br>Email: jharb@azlgbtqdems.org",
           "_tags": [
             "Theme"
           ],
@@ -1680,7 +1690,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/670fafb091ce2e6d71d6d92202a2a3f3-4-640x607.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1704,7 +1714,7 @@
             "showMeta": true
           },
           "title": "\n<div><span style=\"color: inherit; font-family: inherit;\">Claudia Clark, Treasurer</span><br></div>",
-          "meta": "Bio Coming Soon! \n<br>\n<br>Phone: (602) 298-4200<br>Email: treasurer@azlgbtdems.org",
+          "meta": "Bio Coming Soon! \n<br><br>Email: cclark@azlgbtqdems.org",
           "_tags": [
             "Theme"
           ],
@@ -1721,42 +1731,50 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b2523",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "showText": false,
+            "outside": false
           },
-          "logo": {
+          "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
               "active": true,
-              "link": "index.html",
+              "src": "@PROJECT_PATH@/assets/images/david-huff-1400x1398.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1a"
+          "_name": "image2",
+          "_anchor": "image2-5e"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\n<div>David Huff, Secretary</div><div>\n</div><div>\n</div>",
+          "meta": "<br>Bio Coming Soon! \n<br><br>Email: dhuff@azlgbtqdems.org<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-5f"
         },
         {
           "_inherit": "dropdown-menu",
@@ -1771,7 +1789,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1797,32 +1815,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
               "link": "QtheVote.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-1v"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
-          "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-41",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -1851,6 +1854,246 @@
             "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
           ],
           "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5g"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\n<div>Cynthia Arroyo, Outreach Liaison</div><div>\n</div><div>\n</div>",
+          "meta": "<br>Bio Coming Soon! \n<br><br>Phone:&nbsp;(703) 673-6615<br>Email: carroyo@azlgbtqdems.org<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-5h"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/kenny-caron-960x720.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5i"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\n<div>Kenny Caron, Outreach Liaison</div><div>\n</div><div>\n</div>",
+          "meta": "<br>Bio Coming Soon! \n<br><br>Phone:&nbsp;(602) 614-7485<br>Email: kcaron@azlgbtqdems.org<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-5j"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/26220797-10210987414903308-8461353202949294596-o-986x986.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5k"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\n<div>Dylan Hendal, Political Outreach</div><div>\n</div><div>\n</div>",
+          "meta": "<br>Bio Coming Soon! \n<br><br>Phone:&nbsp;(480) 243-3602<br>Email: dhendal@azlgbtqdems.org<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-5l"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/50699187-615807072189571-8323408459416469504-n-1-957x958.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-5m"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\n<div>Lupe Conchas, Political Outreach</div><div>\n</div><div>\n</div>",
+          "meta": "<br>Bio Coming Soon! \n<br><br>Email: lconchase@azlgbtqdems.org<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header3-5n"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2b2523",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-41",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -2119,7 +2362,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2145,7 +2388,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -2173,7 +2416,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2189,7 +2432,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2228,7 +2471,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
@@ -2276,7 +2519,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2292,7 +2535,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2313,7 +2556,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2339,7 +2582,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -2383,14 +2626,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-4q"
+          "_anchor": "custom-html-4q",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -2451,7 +2696,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2467,7 +2712,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2478,7 +2723,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
@@ -2502,7 +2747,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2528,7 +2773,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -2655,7 +2900,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cutmypic-265x267.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -2671,7 +2916,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Arizona Democratic Party<br>Attn: LGBTQ Caucus<br>2910 N Central Ave, Phoenix, AZ 85012<br>&nbsp;<br>",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtdems.org<br>\nPhone: (602) 298-4200<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: info@azlgbtqdems.org<br>\nPhone: (623) 217-9233<br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.azdem.org/\" target=\"_blank\">Arizona Democratic Party</a></li><li><a href=\"https://www.democrats.org/\" target=\"_blank\">Democratic National Committee</a></li><li>Subscribed to Google Analytics&nbsp;<br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -2692,7 +2937,7 @@
             "fontName": {},
             "fontColor": "#f8f3f2"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission.html\" aria-expanded=\"false\">Mission<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"CaucusLeaders.html\" aria-expanded=\"false\">ADP LGBT Caucus Board</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQBylaws.html\" aria-expanded=\"false\">ADP LGBT Caucus ByLaws<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meetings</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"EventsCalendar.html\" aria-expanded=\"false\">Events Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.azdem.org/state-committee\" target=\"_blank\">ADP State Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"QtheVote.html\" aria-expanded=\"false\" target=\"_blank\">Q the Vote</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Membership.html\" aria-expanded=\"false\">Caucus Membership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LGBTQblog.html\" aria-expanded=\"false\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ADP Academy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Resources</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.azcleanelections.gov/\" aria-expanded=\"false\" target=\"_blank\">Candidates and Elections</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://servicearizona.com/voterRegistration?popularclick\" aria-expanded=\"false\" target=\"_blank\">Voter Registration</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://secure.actblue.com/contribute/page/lgbt-caucus-arizona-democratic-party-1\" target=\"_blank\">Contribute</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2718,7 +2963,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/q-thevote-logo-large-final-1-256x128.png",
+              "src": "@PROJECT_PATH@/assets/images/lgbtq-caucus-logo-128x128.jpg",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -2763,14 +3008,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (602) 298-4200 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"41\">\n   <div class=\"mbr-section__container container mbr-section__container--isolated\">\n             \n           <div class=\"clearbox\"><p>2910 North Central Ave · Phoenix, AZ 85012 · Phone: (623) 217-9233 <br>\nPaid for by LGBT Caucus - Arizona Democratic Party</p></div>   \n   </div>\n</section>",
           "_customCSS": ".clearbox\n{\nfont-size: 18px ;\nmargin-left: auto ;\nmargin-right: auto ;\nborder: 1px solid black ; \ntext-align: center ;\npadding: 10px ;\n   \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-4o"
+          "_anchor": "custom-html-4o",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     }

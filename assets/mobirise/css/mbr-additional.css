@@ -251,6 +251,12 @@
 #header3-1t P {
   text-align: left;
 }
+#header3-5f H3 {
+  text-align: center;
+}
+#header3-5f P {
+  text-align: left;
+}
 #dropdown-menu-2btn-1v .hide-buttons [data-button] {
   display: none !important;
 }
@@ -270,6 +276,30 @@
 }
 #dropdown-menu-2btn-1v .navbar-toggler {
   color: #f8f3f2;
+}
+#header3-5h H3 {
+  text-align: center;
+}
+#header3-5h P {
+  text-align: left;
+}
+#header3-5j H3 {
+  text-align: center;
+}
+#header3-5j P {
+  text-align: left;
+}
+#header3-5l H3 {
+  text-align: center;
+}
+#header3-5l P {
+  text-align: left;
+}
+#header3-5n H3 {
+  text-align: center;
+}
+#header3-5n P {
+  text-align: left;
 }
 #custom-html-41 .clearbox {
   font-size: 18px ;
