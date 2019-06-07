@@ -43,6 +43,12 @@
 #contacts1-1a UL {
   color: #2b2523;
 }
+#msg-box1-5t .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-5t .mbr-article {
+  color: #fff;
+}
 #custom-html-4d .clearbox {
   font-size: 18px ;
   margin-left: auto ;
