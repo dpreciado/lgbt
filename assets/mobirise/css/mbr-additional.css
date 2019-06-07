@@ -496,3 +496,32 @@
   text-align: center ;
   padding: 10px ;
 }
+#header3-5v H3 {
+  font-size: 30px;
+}
+#dropdown-menu-2btn-5o .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-5o .nav .link,
+#dropdown-menu-2btn-5o .dropdown-item {
+  font-size: 1em;
+  color: #2f4d57;
+}
+#dropdown-menu-2btn-5o .navbar,
+#dropdown-menu-2btn-5o .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-5o .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-5o .dropdown-menu a:hover,
+#dropdown-menu-2btn-5o .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-5o .navbar-toggler {
+  color: #2f4d57;
+}
+#contacts1-5q P {
+  color: #2b2523;
+}
+#contacts1-5q UL {
+  color: #2b2523;
+}
